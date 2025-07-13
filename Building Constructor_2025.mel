@@ -62,7 +62,7 @@ floatField -v 0.1 -max 0.3 -cc"bvValue_changed" bvValue;
 
 frameLayout -l "Generate Windows" -cll on -cl off -w 400 -p "buildGen";
 button -l "Generate Windows" -c "window_gen" -bgc 1 0.365 0.365 ;
-text -label "Developed By \n  Amirreza Moghaddam - 2018"  -bgc 0.365 0.365 1 ;
+text -label "Developed By \n  Amirreza Moghaddam"  -bgc 0.365 0.365 1 ;
 text -label "Bug Fixed By \n  Ramon Serrate -RayznGames -2025"  -bgc 365.0 0.365 1 ;
 showWindow buildGen;
 
@@ -178,6 +178,8 @@ global proc window_gen() {
     
     button -l "Finish up" -c "finish_up" -bgc 0.3 0.8 0.365 ;
     text -label "Developed By \n  Amirreza Moghaddam"  -bgc 0.365 0.365 1 ;
+    text -label "";
+    text -label "Bug Fixed By \n  Ramon Serrate -RayznGames -2025"  -bgc 365.0 0.365 1 ;
     
     showWindow windowgen;
 
