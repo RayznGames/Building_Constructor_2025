@@ -1,10 +1,12 @@
-# Building_Constructor_2025
+# MAYA Building Constructor 2025
 A Maya script that worked for Maya 2018, that I modified to work with newer versions of Maya 2024+
 
-![Building_Constructor](https://github.com/user-attachments/assets/e502f3e1-4c86-4c64-b656-b79625d8ae4e)
+![Building_Constructor](https://github.com/user-attachments/assets/b15880be-7d55-457d-b3ee-a85fb75ed45f)
 
 Rayzngames is NOT the creator of the original Building Constructor Script. 
 Credit for the original Script goes to Amirreza Moghaddam
+
+[Amirreza's Original Building Constructor](https://github.com/amirrezamgh/Building-Constructor)
 
 Rayzngames' contribution has only fixed major errors, failures, and issues that occurred 
 In newer versions of Maya, like 2024 onwards.
@@ -21,3 +23,6 @@ However, most of the issues that can arise now come down to the building packagi
 It just requires some manual parenting/combine work, along with renaming the final mesh files.
 
 Enjoy! 
+
+# How to Use (Amirreza's Original Video): 
+[![A_Cap](https://github.com/user-attachments/assets/72272635-9cb5-489d-9e0a-80772d6ec6a0)](https://www.youtube.com/watch?v=RRjOrvIKpC4&t=42s&ab_channel=AmirMoghadam)
