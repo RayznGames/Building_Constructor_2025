@@ -4,7 +4,7 @@ A Maya script that worked for Maya 2018, that I modified to work with newer vers
 ![Building_Constructor](https://github.com/user-attachments/assets/b15880be-7d55-457d-b3ee-a85fb75ed45f)
 
 Rayzngames is NOT the creator of the original Building Constructor Script. 
-Credit for the original Script goes to Amirreza Moghadam
+Credit for the original Script goes to Amirreza Moghaddam
 
 [Amirreza's Original Building Constructor](https://github.com/amirrezamgh/Building-Constructor)
 
